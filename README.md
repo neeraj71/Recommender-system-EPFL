@@ -1,10 +1,6 @@
 # recommender-system
 EPFL-ML
 
-### CrowdAI 
-* **Submission ID** : 22862 
-* **User name**  : SaltyGlass
-
 ### Organization of the folder:
 * **source code** :
     * run.py : python script that creates the best prediction achieved.
